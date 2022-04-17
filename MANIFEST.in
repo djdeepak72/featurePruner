@@ -1,0 +1,5 @@
+include LICENSE.txt
+include README.md
+include docs/*
+include FAQ.md
+include Pruner.png

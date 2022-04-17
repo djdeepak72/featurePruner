@@ -1,0 +1,4 @@
+# pandas==0.24.2
+# pytest==5.4.1
+pyyaml
+
